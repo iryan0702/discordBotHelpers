@@ -1,0 +1,17 @@
+
+$kakerarefund @iryry
+confirm
+$gold 2
+y
+$bronze 2
+y
+$silver 2
+y
+$ruby 4
+y
+$gold 4
+y
+$emerald 4
+y
+$sapphire 4
+y

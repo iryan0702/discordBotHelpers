@@ -1,0 +1,10 @@
+
+### basic argument setting: 60 second timer with 10 second rest ###
+python botAlarm.py 60 10
+
+### more complex argument settings for personal use ###
+python botAlarm.py 60 10 tip 5 chainsaw 5 work 10 farm 10 tr 15 ot 30 adv 60
+
+python botAlarm.py 305 15 \!t 5 \!w 10 \!ot 30 axe 5 farm 10 tr 15 adv 60
+
+python botAlarm.py 65 10 \!t 5 \!w 10 \!ot 30 axe 5 farm 10 tr 15 adv 60

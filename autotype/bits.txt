@@ -1,0 +1,11 @@
+
+%w
+%ot
+%t
+rpg hunt
+rpg heal
+rpg adv
+rpg heal
+rpg farm carrot
+rpg axe
+rpg rd

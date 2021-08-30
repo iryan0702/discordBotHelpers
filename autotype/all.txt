@@ -1,0 +1,18 @@
+%buy chef
+%buy music
+%buy karaoke
+%buy flipper
+%buy airplane
+%w
+%ot
+%t
+rpg hunt
+rpg heal
+rpg buy ed lb
+rpg pet adv claim
+rpg pet adv learn b
+rpg adv
+rpg heal
+rpg farm
+rpg chainsaw
+rpg rd

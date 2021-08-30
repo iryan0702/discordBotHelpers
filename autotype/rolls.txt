@@ -1,0 +1,11 @@
+buffer
+$kakerarefund @iryry
+confirm
+$silver 1
+y
+$bronze 1
+y
+$gold 2
+y
+$sapphire 4
+y

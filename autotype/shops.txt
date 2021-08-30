@@ -1,0 +1,13 @@
+
+%l shack
+%buy chef
+%buy music
+%buy karaoke
+%buy flipper
+%buy airplane
+%l beach
+%buy chairs
+%buy sail
+%buy concert
+%buy tours
+%buy hammock
